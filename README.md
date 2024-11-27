@@ -1,4 +1,2 @@
 # MAGRRE
-The repository includes all codes and results in paper2.
-
-Three simulations and one realdata.
+The repository includes an open dataset, codes and results for simulations and realdata analysis in paper2.
